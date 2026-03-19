@@ -1,0 +1,1 @@
+https://estoque-70202662546.southamerica-east1.run.app
