@@ -1,0 +1,7 @@
+# .env file for local development (WARNING: INSECURE FOR PRODUCTION)
+DB_HOST=35.199.73.58
+DB_PORT=5432
+DB_USER=postgres
+DB_PASSWORD="ZP\"z=+\"I9X_(Qvj8" # Ensure special characters are properly escaped or quoted
+DB_NAME=beautybrasil-inventory-db
+DB_SSLMODE=disable
